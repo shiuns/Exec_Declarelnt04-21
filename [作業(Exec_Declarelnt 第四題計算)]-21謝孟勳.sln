@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[作業(Exec_Declarelnt 第四題計算)]-21謝孟勳", "[作業(Exec_Declarelnt 第四題計算)]-21謝孟勳\[作業(Exec_Declarelnt 第四題計算)]-21謝孟勳.csproj", "{5BF0CD90-84E3-4740-8E88-106DFFDBC7D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF0CD90-84E3-4740-8E88-106DFFDBC7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF0CD90-84E3-4740-8E88-106DFFDBC7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF0CD90-84E3-4740-8E88-106DFFDBC7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF0CD90-84E3-4740-8E88-106DFFDBC7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B988D45F-6E6F-491E-B365-9C86F91025E2}
+	EndGlobalSection
+EndGlobal
