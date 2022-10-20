@@ -11,7 +11,17 @@ namespace _作業_Exec_Declarelnt_第四題計算___21謝孟勳
     {
         static void Main(string[] args)
         {
-            //老師抱歉..此題看不懂題目QQ
+            int begin = 100;
+            int end = 20;
+
+            if (begin > end)
+            {
+                int temp = begin;
+                begin = end;
+                end = temp;
+            }
+
+            Console.WriteLine($"{begin} ~ {end}");
         }
     }
 }
